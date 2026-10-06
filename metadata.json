@@ -1,0 +1,6 @@
+{
+  "name": "LearnSphere — Online Tutoring SaaS Platform",
+  "description": "Better Learning. Brighter Futures. 1-on-1 personalized tutoring, expert instructors, interactive courses, and AI study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
